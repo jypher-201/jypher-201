@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🎓 I'm currently studying Computer Science.<br>🛠️ I’m working on sharpening my skills in Python.</p>
+<p align="left">🎓 I'm currently studying Computer Science.</p>
 
 ###
 
